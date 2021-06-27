@@ -3,6 +3,8 @@
 ## Motivation
 I was interesting in doing a time-series analysis and forecasting project to learn about new libraries and add skills. I obtained the [data](https://www.kaggle.com/rohitsahoo/sales-forecasting) from Kaggle. The data is sales of a global superstore for four years (2015-2018).
 
+The superstore appears to sell office materials as the categories for sales are Technology, Office Supplies, and Furniture. Due to the wide variety of sales in each category, I only performed my analysis and forecasting on the "Furniture" category as doing all three together led to very poor results.
+
 ## Requirements
 [Requirements](https://github.com/EWiliams0590/SuperstoreSalesForecasting/blob/main/requirements.txt)
 ## Notebooks
