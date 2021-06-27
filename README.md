@@ -4,7 +4,7 @@
 I was interesting in doing a time-series analysis and forecasting project to learn about new libraries and add skills. I obtained the [data](https://www.kaggle.com/rohitsahoo/sales-forecasting) from Kaggle. The data is sales of a global superstore for four years (2015-2018).
 
 ## Requirements
-
+[Requirements](https://github.com/EWiliams0590/SuperstoreSalesForecasting/blob/main/requirements.txt)
 ## Notebooks
   * [Analysis and Forecasting](https://github.com/EWiliams0590/SuperstoreSalesForecasting/blob/main/Superstore%20EDA%20and%20Forecasting.ipynb)
 
